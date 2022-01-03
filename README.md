@@ -1,4 +1,4 @@
-- 👋 Hi, I’m gwd [you can call me walter]
+- 👋 Hi, I’m gwd in AT (Austria) [you can call me walter]
 - 👀 I’m interested in Data stuffl, Julialang, R, Python and C/C++
 - 🌱 I’m currently learning Python and Julia
 - 💞️ I’m looking to collaborate on ML and Package dev
